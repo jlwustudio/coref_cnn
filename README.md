@@ -10,8 +10,8 @@ This repository contains the code for replicating results from
   * Python 3.6
   * TensorFlow 1.7.0
 
-# Basic Usage
-To train with default parameters on the tiny CONLL-2012 corpus, run:
+## Basic Usage
+To train with default parameters on the tiny corpus. Unzip the data.zip on the root directory of this code and run:
 ```bash
 python train_nn.py
 ```
